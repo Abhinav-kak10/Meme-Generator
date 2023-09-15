@@ -5,7 +5,7 @@ export default function Header() {
         <header className="header">
             <img 
                 src="./images/meme.png"
-                alt=""
+                alt="meme"
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
